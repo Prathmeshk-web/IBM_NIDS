@@ -1,3 +1,5 @@
+.# IBM_NIDS
+A NIDS is a security tool that monitors network traffic for suspicious activity, policy violations, and cyber threats.
 This repository contains my official submission for the IBM University Engagement Project. This project introduces a robust, machine learning-based Network Intrusion Detection System (NIDS) built natively within the enterprise IBM Cloud ecosystem. By analyzing raw network traffic data, the application successfully identifies and classifies various types of cyber-attacks to provide an early warning of malicious activities and secure communication networks.
 
 Domain: Cybersecurity / Network Security
@@ -36,5 +38,4 @@ To verify operational workflows and model deployment, live infrastructure verifi
 
 Submission Files: app.json, problemstatement.pdf, and presentation.pptx are included in the root directory.
 
-Deployment Proof: See the included screenshots/visual confirmations of the active IBM watsonx deployment dashboard, JSON testing inputs, and real-time prediction results.# IBM_NIDS
-A NIDS is a security tool that monitors network traffic for suspicious activity, policy violations, and cyber threats.
+Deployment Proof: See the included screenshots/visual confirmations of the active IBM watsonx deployment dashboard, JSON testing inputs, and real-time prediction results
