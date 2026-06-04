@@ -1,0 +1,16 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"Normal",
+				[
+					1
+				]
+			]
+		]
+	}
+]
